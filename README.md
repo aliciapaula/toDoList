@@ -22,3 +22,4 @@ Marcar tarefas como concluídas: Possibilita marcar as tarefas que já foram rea
 Remover tarefas: Permite excluir tarefas da lista.
 
 Armazenamento local: Salva as tarefas no navegador do usuário para que elas persistam mesmo após a página ser fechada.
+</div>
