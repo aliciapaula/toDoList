@@ -1,3 +1,4 @@
+<div align="left">
 ToDo List 
 
 Sobre o Projeto
